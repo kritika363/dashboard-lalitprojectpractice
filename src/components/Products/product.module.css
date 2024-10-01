@@ -1,0 +1,14 @@
+.heading{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.productinner{
+    background: #fff;
+    padding: 27px;
+    border-radius: 5px;
+    transition: all 0.4s linear;
+}
+.productinner:hover{
+    box-shadow: 10px 7px 6px 2px rgb(0 0 0 / 6%);
+}
